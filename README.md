@@ -1,2 +1,2 @@
-# jointsavingaccount
-The purpose of the repo is to automate joint saving accounts in solidity
+# Automating joint saving account in solidity
+The purpose of the repo is to automate joint saving accounts in solidity by accepting two user account addresses which would be controlled by joint savings account. The smart contract would use ether management function to implement a financial institution’s requirements for providing the features of the joint savings account. These features consist of the ability to deposit and withdraw funds from the account.
